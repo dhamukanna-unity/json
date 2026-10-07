@@ -1,4 +1,5 @@
 {
+  "id": "a_apple_1",
   "targetName": "a_apple",
   "targetImageUrl": "https://raw.githubusercontent.com/dhamukanna-unity/json/refs/heads/main/A_Apple.png",
   "targetWidth": 0.25,
