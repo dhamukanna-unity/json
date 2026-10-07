@@ -1,4 +1,5 @@
 {
+  "id": "c_cat_1",
   "targetName": "c_cat",
   "targetImageUrl": "https://raw.githubusercontent.com/dhamukanna-unity/json/refs/heads/main/C_Cat.png",
   "targetWidth": 0.25,
