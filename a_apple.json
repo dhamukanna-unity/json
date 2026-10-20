@@ -1,8 +1,8 @@
 {
   "id": "a_apple_1",
-  "version" : 1,
+  "version" : 2,
   "targetName": "a_apple",
   "targetImageUrl": "https://raw.githubusercontent.com/dhamukanna-unity/json/refs/heads/main/A_Apple.png",
   "targetWidth": 0.25,
-  "targetData": "A for Apple"
+  "targetData": "A for Apple - updated"
 }
