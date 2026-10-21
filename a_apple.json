@@ -1,8 +1,8 @@
 {
-  "id": "a_apple_1",
-  "version" : 2,
   "targetName": "a_apple",
   "targetImageUrl": "https://raw.githubusercontent.com/dhamukanna-unity/json/refs/heads/main/A_Apple.png",
   "targetWidth": 0.25,
-  "targetData": "A for Apple - updated"
+  "targetDescription": "A for Apple",
+  "audioUrl": "https://github.com/dhamukanna-unity/ar-book-recognition-system/raw/refs/heads/main/audio/circle-of-days.mp3",
+  "modelUrl": "https://github.com/dhamukanna-unity/json/raw/refs/heads/main/Mazda%20RX-7%20by%20IvOfficial%20-%20SnIoWlh7S2.glb"
 }
